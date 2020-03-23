@@ -1,0 +1,110 @@
+.App {
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  background-image: url(./circuitimage.jpg);
+  min-height: 80vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  font-size: xx-large;
+  color:  #61dafb;
+}
+
+.App-link {
+  color: black;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.tech1 {
+  background-image: url(./SecondImage.jpg);
+  height: 200px;
+  font-size: 60px;
+  background-color: black;
+  color:white;
+}
+.tech1 a:hover{
+  height: 200px;
+  font-size: 60px;
+  background-color: white;
+  color:black;
+}
+
+.tech2 {
+  background-image: url(./ThirdImage.jpg);
+  height: 200px;
+  font-size: 60px;
+  background-color: black;
+  color: white;
+}
+.tech2 a:hover{
+  height: 200px;
+  font-size: 60px;
+  background-color: white;
+  color:black;
+}
+.tech3 {
+  background-image: url(./FourthImage.jpg);
+  height: 200px;
+  font-size: 60px;
+  background-color: black;
+  color:white;
+}
+.tech3 a:hover{
+  height: 200px;
+  font-size: 60px;
+  background-color: white;
+  color:black;
+}
+.tech4 {
+  background-image: url(./FifthImage.jpg);
+  height: 200px;
+  font-size: 60px;
+  background-color: black;
+  color:white;
+}
+.tech4 a:hover{
+  height: 200px;
+  font-size: 60px;
+  background-color: white;
+  color:black;
+}
+.tech5 {
+  background-image: url(./firstimage.jpg);
+  height: 200px;
+  font-size: 60px;
+  background-color: black;
+  color:white;
+}
+.tech5 a:hover{
+  height: 200px;
+  font-size: 60px;
+  background-color: white;
+  color:black;
+}
+

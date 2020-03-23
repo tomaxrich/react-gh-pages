@@ -1,0 +1,45 @@
+.container {
+    height: 100px;
+    width: 100%;
+    text-align: left;
+    color:white;
+  }
+   
+
+.logo {
+    margin-left: 20px;
+    margin-top: 50px;
+    font-size: 70px;
+    text-align: left;
+}
+.box {
+    background: #555;
+}
+.footerleft {
+    width: 100%;
+    background-color: #555;
+    overflow: auto;
+  }
+  
+  /* Navbar links */
+  .footerleft a {
+    float: left;
+    text-align: center;
+    padding: 20px;
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  #left {
+      float: right;
+  }
+  
+  /* Navbar links on mouse-over */
+  .footerleft a:hover {
+    background-color: #000;
+  }
+  
+  /* Current/active navbar link */
+  .active {
+    background-color: #4CAF50;
+  }
