@@ -1,0 +1,17 @@
+.container {
+    height: 100px;
+    width: 100%;
+    text-align: left;
+    color:#61dafb;
+  }
+   
+
+.logo {
+    margin-left: 20px;
+    margin-top: 50px;
+    font-size: 70px;
+    text-align: left;
+}
+.box {
+    background: black;
+}

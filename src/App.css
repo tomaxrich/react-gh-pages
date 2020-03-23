@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  background-color: black;
+  color: white;
 }
 
 .App-logo {
@@ -15,17 +17,19 @@
 
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
+  background-image: url(./circuitimage.jpg);
+  min-height: 80vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  font-size: xx-large;
+  color:  #61dafb;
 }
 
 .App-link {
-  color: #61dafb;
+  color: black;
 }
 
 @keyframes App-logo-spin {
@@ -36,3 +40,40 @@
     transform: rotate(360deg);
   }
 }
+
+.tech1 {
+  background-image: url(./SecondImage.jpg);
+  height: 200px;
+  font-size: 60px;
+  background-color: black;
+  color: #61dafb;
+}
+.tech2 {
+  background-image: url(./ThirdImage.jpg);
+  height: 200px;
+  font-size: 60px;
+  background-color: black;
+  color: #61dafb;
+}
+.tech3 {
+  background-image: url(./FourthImage.jpg);
+  height: 200px;
+  font-size: 60px;
+  background-color: black;
+  color: #61dafb;
+}
+.tech4 {
+  background-image: url(./FifthImage.jpg);
+  height: 200px;
+  font-size: 60px;
+  background-color: black;
+  color: #61dafb;
+}
+.tech5 {
+  background-image: url(./firstimage.jpg);
+  height: 200px;
+  font-size: 60px;
+  background-color: black;
+  color: #61dafb;
+}
+
