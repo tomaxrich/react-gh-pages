@@ -12,11 +12,11 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
       </header>
       <body>
-        <div className="tech1"><a id="One">Currently Implemented Technology</a></div>
-        <div className="tech2"><a id="Two">Github.io</a></div>
-        <div className="tech3"><a id="Three">React.js</a></div>
-        <div className="tech4"><a id="Four">Node.js</a></div>
-        <div className="tech5"><a id="Five">GoDaddy.com</a></div>
+        <div className="tech1"><a id="One" >Currently Implemented Technology</a></div>
+        <div className="tech2"><a id="Two" href="https://pages.github.com/">Github.io</a></div>
+        <div className="tech3"><a id="Three" href="https://reactjs.org/">React.js</a></div>
+        <div className="tech4"><a id="Four" href="https://nodejs.org/en/">Node.js</a></div>
+        <div className="tech5"><a id="Five" href="https://ca.godaddy.com/">GoDaddy.com</a></div>
       </body>
     </div>
   );

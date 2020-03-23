@@ -48,12 +48,25 @@
   background-color: black;
   color:white;
 }
+.tech1 a:hover{
+  height: 200px;
+  font-size: 60px;
+  background-color: white;
+  color:black;
+}
+
 .tech2 {
   background-image: url(./ThirdImage.jpg);
   height: 200px;
   font-size: 60px;
   background-color: black;
   color: white;
+}
+.tech2 a:hover{
+  height: 200px;
+  font-size: 60px;
+  background-color: white;
+  color:black;
 }
 .tech3 {
   background-image: url(./FourthImage.jpg);
@@ -62,6 +75,12 @@
   background-color: black;
   color:white;
 }
+.tech3 a:hover{
+  height: 200px;
+  font-size: 60px;
+  background-color: white;
+  color:black;
+}
 .tech4 {
   background-image: url(./FifthImage.jpg);
   height: 200px;
@@ -69,11 +88,23 @@
   background-color: black;
   color:white;
 }
+.tech4 a:hover{
+  height: 200px;
+  font-size: 60px;
+  background-color: white;
+  color:black;
+}
 .tech5 {
   background-image: url(./firstimage.jpg);
   height: 200px;
   font-size: 60px;
   background-color: black;
   color:white;
+}
+.tech5 a:hover{
+  height: 200px;
+  font-size: 60px;
+  background-color: white;
+  color:black;
 }
 
